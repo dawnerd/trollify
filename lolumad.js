@@ -8,7 +8,6 @@
 !function(){
   //These can be anything you want ;)
   var images = [
-    'http://www.post-literate.com/gerpunx/archives/hasselhoffian-recursion.gif',
     'http://picchore.com/wp-content/uploads/2010/08/hasselhoff.jpg',
     'http://c580019.r19.cf2.rackcdn.com/wp-content/uploads/2007/10/hasselhoff-thumbs.jpg',
     'http://www.topnews.in/files/David-Hasselhoff_0.jpg'
